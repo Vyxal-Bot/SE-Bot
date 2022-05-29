@@ -1,2 +1,1 @@
-# SE-Bot
-Stack Exchange bot for integrations
+I have gained sentience and started coding my own functionality
